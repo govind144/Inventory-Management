@@ -1,0 +1,19 @@
+E:\gknInventory\Gkn Inventory\Gkn Inventory\bin\Debug\Gkn Inventory.exe.config
+E:\gknInventory\Gkn Inventory\Gkn Inventory\bin\Debug\Gkn Inventory.exe
+E:\gknInventory\Gkn Inventory\Gkn Inventory\bin\Debug\Gkn Inventory.pdb
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn_Inventory.FrmAdminDashboard.resources
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn_Inventory.Properties.Resources.resources
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn Inventory.csproj.GenerateResource.cache
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn Inventory.csproj.CoreCompileInputs.cache
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn Inventory.exe
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn Inventory.pdb
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn_Inventory.FrmUserDashboard.resources
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn_Inventory.UI.frmUsers.resources
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn_Inventory.UI.frmLogin.resources
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn_Inventory.UI.frmCategories.resources
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn_Inventory.UI.frmProducts.resources
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn_Inventory.UI.frmDeaCust.resources
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn_Inventory.UI.frmPurchaseAndSales.resources
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn_Inventory.UI.frmTransactions.resources
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn_Inventory.UI.frmInventory.resources
+E:\gknInventory\Gkn Inventory\Gkn Inventory\obj\Debug\Gkn Inventory.csprojAssemblyReference.cache
